@@ -1,6 +1,6 @@
 # 🌊 Tsunami Predictor
 
-A machine learning project that predicts whether a given earthquake will trigger a tsunami, based on seismic and geographic characteristics. Three classifiers — **Decision Tree**, **Random Forest**, and **XGBoost** — are trained, tuned, and compared to find the most reliable predictor.
+Predicts whether an earthquake will trigger a tsunami using seismic and geographic features (magnitude, depth, location, and more). Compares tuned Decision Tree, Random Forest, and XGBoost classifiers — best model reaches **0.947 ROC AUC**.
 
 ## Overview
 
